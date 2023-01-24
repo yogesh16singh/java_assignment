@@ -1,0 +1,22 @@
+.Y_L_h1 {
+    margin-bottom: 3.5rem;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.navbar-brand {
+    font-size: 2.25rem;
+}
+
+.Y_I_container {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.Y_I_btn {
+    display: flex;
+    justify-content: center;
+}
